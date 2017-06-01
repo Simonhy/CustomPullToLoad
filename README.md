@@ -60,3 +60,5 @@
      也可以下载下来运行demo
   ##  备注
     如果开发是在eclipse上的话,只能将代码拷贝过去,暂不支持jar包形式.
+  ## xml使用方式
+   refreshListView 代替原生的ListView
